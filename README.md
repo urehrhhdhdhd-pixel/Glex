@@ -1,80 +1,195 @@
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">GlexOS</h3>
+  <img src="https://img.shields.io/badge/Glex%20OS-v1.0-6e48aa?style=for-the-badge&logo=linux&logoColor=white&labelColor=2a1b47" alt="Glex OS">
 
-  <p align="center">
-    Welcome to a WEBOS of the future
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  <br><br>
+
+  
+
+  <h1>🌌 Glex OS</h1>
+
+  <h3>A modular, high-performance browser-native desktop environment</h3>
+
+  
+
+  <br>
+
+  
+
+  <p>
+
+    <a href="https://github.com/urehrhhdhdhd-pixel/Glex/stargazers">
+
+      <img src="https://img.shields.io/github/stars/urehrhhdhdhd-pixel/Glex?style=for-the-badge&logo=starship&color=yellow&logoColor=white&labelColor=1a1a2e" alt="stars">
+
+    </a>
+
+    <a href="https://github.com/urehrhhdhdhd-pixel/Glex/forks">
+
+      <img src="https://img.shields.io/github/forks/urehrhhdhdhd-pixel/Glex?style=for-the-badge&logo=git-fork&logoColor=white&color=cyan&labelColor=0f3460" alt="forks">
+
+    </a>
+
+    <a href="https://github.com/urehrhhdhdhd-pixel/Glex/issues">
+
+      <img src="https://img.shields.io/github/issues/urehrhhdhdhd-pixel/Glex?style=for-the-badge&logo=git-bug&color=ff6b6b&labelColor=3d0000" alt="issues">
+
+    </a>
+
+    <a href="https://github.com/urehrhhdhdhd-pixel/Glex/blob/main/LICENSE">
+
+      <img src="https://img.shields.io/github/license/urehrhhdhdhd-pixel/Glex?style=for-the-badge&color=9d4edd&logoColor=white&labelColor=240046" alt="license">
+
+    </a>
+
   </p>
+
+
+
+  <br>
+
+
+
+  <p>
+
+    <a href="#-getting-started">
+
+      <img src="https://img.shields.io/badge/Explore%20Docs-00d4ff?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=004d80" alt="docs">
+
+    </a>
+
+    <span>&nbsp;&nbsp;</span>
+
+    <a href="https://github.com/urehrhhdhdhd-pixel/Glex/issues/new?labels=bug&template=bug_report.md">
+
+      <img src="https://img.shields.io/badge/Report%20Bug-ff4757?style=for-the-badge&logo=bug&logoColor=white&labelColor=870000" alt="report bug">
+
+    </a>
+
+    <span>&nbsp;&nbsp;</span>
+
+    <a href="https://github.com/urehrhhdhdhd-pixel/Glex/issues/new?labels=enhancement&template=feature_request.md">
+
+      <img src="https://img.shields.io/badge/Request%20Feature-2ed573?style=for-the-badge&logo=idea&logoColor=white&labelColor=006400" alt="request feature">
+
+    </a>
+
+  </p>
+
+
+
+  <br><br>
+
+
+
+  <img width="780" src="https://via.placeholder.com/780x460/1a1a2e/00d4ff?text=Glex+OS+Screenshot+Here" alt="Glex OS Demo"><br>
+
+  <small><i>Lightweight. Fast. 100% browser-native.</i></small>
+
+
+
 </div>
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+<br><br>
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+---
 
 
 
-### Built With
+## 🌠 Why Glex OS?
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![HTML]
-* [![CSS]
-* [![JS]
+
+A full desktop-like experience **without installing anything**, running completely inside your browser with:
+
+
+
+- ⚡ Near-native performance (Preact + HTM + pure JS)
+
+- 🪟 Beautiful, physics-feeling window manager
+
+- 🎨 Clean neumorphic + glassmorphic design
+
+- 💾 Persistent workspace via IndexedDB + localStorage
+
+- 🔌 Modular app architecture — easy to extend
+
+- ⌨️ Global hotkeys & context-aware shortcuts
+
+- 🖼️ Built-in Gallery, Notes, File Explorer, Settings…
+
+
+
+---
+
+
+
+## ✨ Core Highlights
+
+
+
+| Feature                     | Description                                          | Status     |
+
+|-----------------------------|------------------------------------------------------|------------|
+
+| Window Manager              | Draggable • Resizable • Snap • Minimize • Maximize   | ✓ Complete |
+
+| Taskbar + Start Menu        | Dynamic, theme-aware                                 | ✓ Complete |
+
+| File System (virtual)       | Upload, download, drag & drop support                | ✓ Complete |
+
+| Theme Engine                | Dark / Light / Glass / Custom                        | ⚙️ Active  |
+
+| Notification Center         | System-wide toast & persistent notifications         | ✓ Complete |
+
+| Local Persistence           | Saves layout, open apps, files, settings             | ✓ Complete |
+
+| App Store / sideload        | Planned — load apps from URL or GitHub               | 🛠️ Planned |
+
+
+
+---
+
+
+
+## 📂 Project Anatomy
+
+
+
+```text
+
+Glex/
+
+├── GLEX_OS.html           # ← single-file entry point (or minimal index)
+
+├── assets/
+
+│   ├── icons/             # system + app icons (svg + png)
+
+│   ├── wallpapers/        # default backgrounds
+
+│   └── fonts/             # optional custom fonts
+
+├── src/
+
+│   ├── core/              # WindowManager, Taskbar, Registry, Hotkeys, Notifications...
+
+│   ├── apps/              # FileExplorer, Notes, Gallery, Settings, Terminal...
+
+│   ├── components/        # reusable UI (TaskbarButton, Window, ContextMenu...)
+
+│   ├── styles/
+
+│   │   ├── main.css       # global variables & base styles
+
+│   │   ├── themes/        # dark.css, glass.css, light.css...
+
+│   │   └── animations.css
+
+│   └── main.js            # bootstrap & app registry
+
+└── vendor/                # Preact, HTM, JSZip, idb-keyval, etc.
